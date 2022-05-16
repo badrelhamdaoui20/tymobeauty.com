@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tymobeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tymobeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tymobeauty.com/collections/hair-care.atom"/>
+  <title>Tymo Beauty</title>
+  <updated>2021-11-08T01:40:20-08:00</updated>
+  <author>
+    <name>Tymo Beauty</name>
+  </author>
+  <entry>
+    <id>https://tymobeauty.com/products/6672105799795</id>
+    <published>2021-11-08T01:40:20-08:00</published>
+    <updated>2021-11-08T01:40:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-volumist"/>
+    <title>TYMO Volumist (U.S. Only)</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/1_81fe1bc1-32b2-4f7e-86e6-d30c1399e3d8.jpg?v=1636362599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>TYMO VOLUMIST</strong> is a weightless styling hairspray that can easily hold hair from root to top in a salon-grade result. The ionic Hydrolyzed Keratin will help to fill the gap throughout hair shaft and provide a shield from sun, humidity and chemical treatment. Equipped with a unique micro-diffusion nozzle that enables tiny micro-level mist to dry in a second without white residues and stickiness while styling. This hairspray locks in moisture and boosts smoothness and shine while styling without any frizz or split ends. Unlock your effortless, and long-lasting hairstyle with TYMO VOLUMIST!</p>
+<p><strong>Product Features：</strong></p>
+<ul>
+<li>Provides thermal protection up to 450°F</li>
+<li>The Oil-Hydrolyzed Keratin</li>
+<li>Shine-boosting plant essence extraction</li>
+<li>Water-based mist without greasy</li>
+<li>Argan oil-infused essence  </li>
+<li>Unique micro-diffusion nozzle</li>
+<li>Water-proof , fast dry and humidity-resistance</li>
+<li>VOC 55% environmental-friendly formula</li>
+<li>Signature Moroccan-oil scent combined with spicy amber and sweet florals</li>
+</ul>
+<p><br></p>
+<p> </p>
+<h6></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:b101-product-features</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6672105799795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>B101</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tymobeauty.com/products/6659716808819</id>
+    <published>2021-10-21T04:03:44-07:00</published>
+    <updated>2021-10-21T04:03:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-mist"/>
+    <title>TYMO Mist (U.S. Only)</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/B100_A1.jpg?v=1646292835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the secret of silky and damage-free hairstyle with <strong>TYMO Mist</strong>. Specifically featured with oil-hydrolyzed keratin for all needs of hair care and hairstyling whilst provides intense heat protection (up to 450°F) from damage and breakage. The Argan oil-infused essence can protect each hair strand without greasy. Pamper your strands with this extremely versatile and lightweight mist, and keep your hair sleek, healthy, and breakage-free. With ionic Moroccan oil, spicy amber and sweet florals, the TYMO scent also makes it double as a calming aromatherapy moment for your mind. </p>
+<strong>Product Features:</strong><br>
+<ul>
+<li>Provides thermal protection up to 450°F</li>
+<li>The Oil-hydrolyzed keratin</li>
+<li>Argan oil-infused essence</li>
+<li>The patent anti-stuck spray nozzle</li>
+<li>Weightless mist without greasy</li>
+<li>Signature Moroccan-oil scent combined with spicy amber and sweet florals</li>
+<li>Can be used as a conditioning, styling and finishing serum all in one<br>
+</li>
+</ul>
+<br>
+<h6></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:b100-product-features</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6659716808819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>B100</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tymobeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tymobeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tymobeauty.com/collections/facial.atom"/>
+  <title>Tymo Beauty</title>
+  <updated>2021-09-22T03:31:29-07:00</updated>
+  <author>
+    <name>Tymo Beauty</name>
+  </author>
+  <entry>
+    <id>https://tymobeauty.com/products/6639911141491</id>
+    <published>2021-09-22T03:31:29-07:00</published>
+    <updated>2021-09-22T03:31:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-hazy"/>
+    <title>TYMO HAZY(U.S. Only)</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/1_2d4d25cd-a5f8-4236-912f-24d112397bef.jpg?v=1632304590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy relaxing, spa-like facial sauna treatments with <strong>TYMO HAZY</strong> Facial Steamer. Featured with a patent bacteria-free vaporizer, TYMO HAZY detoxify and cleanse your face like the professionals with nano-sized water molecules for all skin type. Maxing water penetration into the deep layers of the skin for more moisturizer with therapeutic warm steam, meanwhile deeply improve the skin condition for followed-up skin care routine. 3 adjustable oil essential nozzles perfectly designed for a facial-spa. Add your favorite essential oil to TYMO HAZY and pamper yourself with facial spa at home.</p>
+<p> </p>
+<div style="text-align: start;"></div>
+<div style="text-align: start;"><strong>Professional Skin Kit:</strong></div>
+<div style="text-align: start;">
+<meta charset="utf-8">
+<ul>
+<li>premium quality headband×1</li>
+<li>unique blackhead remover tools ×5</li>
+<li>soft Bag for holding blackhead remover tools×1</li>
+</ul>
+<strong>Product Features:</strong><br>
+</div>
+<div style="text-align: start;">
+<meta charset="utf-8">
+<ul>
+<li>The patent bacteria-free vaporizer</li>
+<li>Ultra-sonic Nano Ionic Mist</li>
+<li>Therapeutic Warm Steam (104 °F)</li>
+<li>3 adjustable oil essential nozzles</li>
+<li>15 mins auto shut off</li>
+<li>Automatic boil-dry protection</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:product-features-sc100</s:tag>
+    <s:tag>__tab2:professional-skin-kit-sc100</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6639911141491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>SC100</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tymobeauty.com/products/6637110231155</id>
+    <published>2021-09-21T22:55:16-07:00</published>
+    <updated>2021-09-21T22:55:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-twilight-led-vanity-mirror"/>
+    <title>TYMO TWILIGHT (U.S. Only)</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/01.jpg?v=1632291499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<div style="text-align: start;" data-mce-style="text-align: start;">
+<p>Enjoy a professionally customized, clear reflection with dual sides that offer 1×/3× magnification with <strong>TYMO TWILIGHT LED</strong> Vanity Mirror for all your makeup occasions. The product offers 3 lighting modes with 26 high-quality LED lights, easily touch the sensor button to adjust the light level.</p>
+<p>The 6.7 inches HD silver-plated mirror perfectly bright up the make-up shine with an impressive 135-degree swivel. The rechargeable mirror can provide non-stop 6 hours of luminance with the provided USB cable (1200 mAh capacity battery), and one time fully charge can satisfy your daily use for 1 month with 30 minutes auto-off and energy-efficient feature. The detachable design and tiny size are convenient for both desktop use and traveling. Enjoy your carefree makeup routine with TYMO twilight LED vanity mirror.</p>
+<p><strong>What is included：</strong></p>
+<ul>
+<li>TYMO TWILIGHT LED Vanity Mirror×1</li>
+<li>Charging Cable×1</li>
+</ul>
+<p><strong>Product Features：</strong></p>
+<ul>
+<li>One-touch operation</li>
+<li>3 adjustable lighting level</li>
+<li>1×/3× magnification</li>
+<li>135-degree free rotation</li>
+<li>USB rechargeable</li>
+<li>Automatic power off</li>
+<li>Detachable convenience</li>
+<li>Up to 6-hour battery life (1200 mAh )</li>
+<li>One time fully charging satisfy daily use for one month</li>
+</ul>
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:product-features-sc600</s:tag>
+    <s:tag>__tab2:what-is-included-sc600</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6637110231155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>SC600</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

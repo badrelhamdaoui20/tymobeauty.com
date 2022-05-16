@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tymobeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tymobeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tymobeauty.com/collections/hair-dryer.atom"/>
+  <title>Tymo Beauty</title>
+  <updated>2021-06-25T20:57:22-07:00</updated>
+  <author>
+    <name>Tymo Beauty</name>
+  </author>
+  <entry>
+    <id>https://tymobeauty.com/products/6594792423539</id>
+    <published>2021-06-25T20:57:22-07:00</published>
+    <updated>2021-06-25T20:57:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-highspeed"/>
+    <title>TYMO HIGHSPEED</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/01_ecb64c0c-b5e2-42f4-87ce-f737b242bd39.jpg?v=1624862472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>TYMO HIGHSPEED</strong> is a state-of-the-art professional dryer that combines exceptional power, performance and salon-perfect results. This exquisite and light weight device (298g only) is equipped with powerful BLDC digital motor, that generates the powerful high speed airflow. It also produces a uniquely calibrated blend of ion-enriched air and focused air velocity to rapidly dry and style hair.</p>
+<p><strong>TYMO HIGHSPEED</strong> is designed with MCH + Ionic technologies innovated to protect hair from extreme heat damage, with fastest drying and controlled styling to help increase smoothness, increase shine and decrease frizz and flyaway.</p>
+<p>4 precise heat settings, 3 speed settings, one-button cold shot that all controlled with a LCD display, and 3 magnetic styling nozzles (1 diffuser for more visible curl; 1 smoothing nozzle to smooth hair while drying; 1 styling concentrator to create a blade of air for perfectly styling), to enables multiple long-lasting style for every hair type.</p>
+<p>Unique one-button air reversal design with auto cleansing feature, plus removable filter case, any dirt in the filter can be easily blown and wiped off. Get ready with TYMO and enjoy your new experience of hair drying and styling.</p>
+<p>*Apply in 120V use only, orders are only available for U.S. and Canada.</p>
+<p><strong>What is included:</strong></p>
+<ul>
+<li>Hypersonic hair dryer×1</li>
+<li>Diffuser ×1</li>
+<li>Smoothing nozzle ×1</li>
+<li>Styling concentrator ×1</li>
+<li>Cleaning brush ×1</li>
+</ul>
+<p><strong>Product Features:</strong><br></p>
+<ul>
+<li>4 precise temperature options for different styling purposes( cold shot/140°F/175°F/210°F)</li>
+<li>3 air flow speed for all hair types</li>
+<li>20m/s air speed, 40L/s air flow, allows drying time as quick as 5mins</li>
+<li>30 Million Negative Ions to reduce frizz and keep your hair silky all day long</li>
+<li>One-button air reversal design with auto cleansing feature</li>
+<li>LCD display</li>
+<li>120V~60Hz, 1200W</li>
+<li>1-year warranty</li>
+</ul>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/IIHnDnf1c6g" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:product-features-hc600</s:tag>
+    <s:tag>__tab2:what-is-included-hc600</s:tag>
+    <s:tag>DRYER</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6594792423539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>HC600</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tymobeauty.com/products/6541688438899</id>
+    <published>2021-04-06T02:08:08-07:00</published>
+    <updated>2021-04-06T02:08:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://tymobeauty.com/products/tymo-volumizer"/>
+    <title>TYMO VOLUMIZER</title>
+    <s:type>Beauty and Personal Care</s:type>
+    <s:vendor>Tymo Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0094/4839/0711/products/IMAGE_EDIT_4082ddd4-60d8-4305-b31d-56e3f2019c6a.png?v=1621341281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tymo Beauty<br>
+        <strong>Type: </strong>Beauty and Personal Care<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>TYMO VOLUMIZER</strong> is the professional one-step hair styler. This multi-functional hot air brush is designed to deliver gorgeous volume and brilliant shine at the same time.</p>
+<p data-mce-fragment="1">The product can be used as a blow dryer, volumizer, straightener, and curler.</p>
+<p data-mce-fragment="1">With the 1100W powerful motor TYMO VOLUMIZER can efficiently dry wet hair. The unique 360° vent offers a 50% bigger surround drying area to fast dry hair and create salon long-lasting hairstyles in minutes, saving your time.</p>
+<p data-mce-fragment="1">Titanium barrel and ionic technology create volume at the root and sleekness along the hair shaft while a mix of long and short bristles detangle, smooth and minimize breakage.</p>
+<p data-mce-fragment="1">Adjustable heat settings provide a customized blowout that works for every hair type.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1" style="color: #c43d6c;">*</span>Apply in 120V use only, orders are only available for U.S. and Canada.</p>
+<p data-mce-fragment="1"><strong>What is included:</strong></p>
+<ul>
+<li>Hot air brush×1</li>
+</ul>
+<p><strong>Product Features:</strong><br></p>
+<ul>
+<li>3 temperature options for different hair types(115℉-230℉)</li>
+<li>Titanium barrel generates negative ions and infrared heat to smooth hair and minimize frizz</li>
+<li>Oval barrel is designed to deliver extra root lift and increase overall volume</li>
+<li>360°swivel power cord</li>
+<li>120V~60Hz, 1100W</li>
+<li>1-year warranty</li>
+</ul>
+<p data-mce-fragment="1"><iframe width="560" height="315" src="https://www.youtube.com/embed/DTJnMHUs2gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:product-features-hc300</s:tag>
+    <s:tag>__tab2:what-is-included-hc300</s:tag>
+    <s:tag>VOLUMIZER</s:tag>
+    <s:variant>
+      <id>https://tymobeauty.com/products/6541688438899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>HC300</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

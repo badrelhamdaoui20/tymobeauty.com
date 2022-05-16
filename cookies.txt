@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tymobeauty.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+tymobeauty.com	TRUE	/	FALSE	1999999999	dynamic_checkout_shown_on_cart	1
+tymobeauty.com	TRUE	/	FALSE	1999999999	localization	US
+tymobeauty.com	TRUE	/	FALSE	1999999999	_y	b8525468-53fd-41a9-8eaa-2e6de3958b3a
+tymobeauty.com	TRUE	/	FALSE	1999999999	_s	ff1ec2c6-4e9e-4231-9584-dfbb2c761d5c
+tymobeauty.com	TRUE	/	FALSE	1999999999	_shopify_y	b8525468-53fd-41a9-8eaa-2e6de3958b3a
+tymobeauty.com	TRUE	/	FALSE	1999999999	_shopify_s	ff1ec2c6-4e9e-4231-9584-dfbb2c761d5c
+tymobeauty.com	TRUE	/	FALSE	1999999999	_secure_session_id	58f4cf6e88fe177aa22ece1fb33f4e84
+tymobeauty.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
